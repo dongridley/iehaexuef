@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zaechiequ.bthdonohue.com/sitemap.xml
